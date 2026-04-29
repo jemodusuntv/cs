@@ -1,4 +1,4 @@
-# xyz outdoor Auto Reply Bot 🤖
+# Auto Reply Bot 🤖
 
 Bot auto reply untuk WhatsApp, Instagram, dan Messenger menggunakan AI Gemini.
 
